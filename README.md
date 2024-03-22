@@ -2,13 +2,8 @@
 ![Drag Racing](banner.jpg)   
 
 ***Soy un desarrollador FullStack junior con conocimientos usando estas herramientas ( Lenguajes de programacion , Librerias etc. )***
-@sample.svg
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="121px" height="81px" viewBox="-0.5 -0.5 121 81" style="background-color: rgb(255, 255, 255);">
-    <defs/>
-    <g>
-        <ellipse cx="60" cy="40" rx="60" ry="40" fill="#ffffff" stroke="#000000" pointer-events="all"/>
-    </g>
-</svg>
-@sample.svg
+<div style="text-align: center;">
+    <svg xmlns="http://www.w3.org/2000/svg" height="1em" fill="currentColor" viewBox="0 0 512 512">
+        <path d="M 212.57143 269.7143 L 299.42856 269.7143 L 212.57143 269.7143 L 299.42856 269.7143 L 256 165.71428 L 256 165.71428 L 212.57143 269.7143 L 212.57143 269.7143 Z M 256 0 L 18.285715 84.57143 L 256 0 L 18.285715 84.57143 L 54.857143 400 L 54.857143 400 L 256 512 L 256 512 L 457.14285 400 L 457.14285 400 L 493.7143 84.57143 L 256 0 Z M 404.57144 390.85715 L 348.57144 390.85715 L 404.57144 390.85715 L 348.57144 390.85715 L 318.85715 315.42856 L 318.85715 315.42856 L 193.14285 315.42856 L 193.14285 315.42856 L 162.28572 390.85715 L 162.28572 390.85715 L 107.42857 390.85715 L 107.42857 390.85715 L 256 57.142857 L 404.57144 390.85715 Z" />
+    </svg>
+</div>
