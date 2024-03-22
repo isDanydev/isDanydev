@@ -2,7 +2,6 @@
 ![Drag Racing](banner.jpg)   
 
 ***Soy un desarrollador FullStack junior con conocimientos usando estas herramientas ( Lenguajes de programacion , Librerias etc. )***
-```
 @sample.svg
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
@@ -13,4 +12,3 @@
     </g>
 </svg>
 @sample.svg
-```
