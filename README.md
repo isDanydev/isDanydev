@@ -1,5 +1,5 @@
 ### Bienvenidos soy Danydev ###
-![Banner](banner.jpg)   
+![Banner](banner-main.jpg)   
 
 ***Soy un desarrollador FullStack junior con conocimientos usando estas herramientas ( Lenguajes de programacion , Librerias etc. )***   
     
