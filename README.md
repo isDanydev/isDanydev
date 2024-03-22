@@ -21,3 +21,5 @@
 ![Intellij Idea](intellij-idea.svg)
 ![Netbeans](netbeans.svg)
 
+***Proyectos en React***
+1. [App de game of thrones](https://main--benevolent-pie-fe57e0.netlify.app/)   ->   [Codigo](https://github.com/isDanydev/app-game-of-thrones)
